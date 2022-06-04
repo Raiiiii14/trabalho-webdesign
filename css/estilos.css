@@ -1,0 +1,48 @@
+@font-face {
+  font-family: Kaoly Demo_Regular;
+  src: url("/kaoly/Kaoly-beautiful-attractive-serif-font.jpg");
+}
+
+body {
+  background-color: #FFE7D6;
+  font-family: Kaoly Demo_Regular;
+  width: 600px;
+  max-width: 100%;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  color: #38120B;
+}
+
+p {
+  color: #2C1A0B;
+  font-family: Verdana;
+}
+
+img {
+  width: 290px;
+  border-radius: 0%;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  display: inline-block;
+  padding-right: 20px;
+}
+
+ul li a {
+  color: #223826;
+  font-size: 25px;
+}
+
+div.imagem {
+  text-align: center;
+}
